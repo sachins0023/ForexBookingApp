@@ -1,4 +1,4 @@
-# EasyFX - International Money Transfer Application
+# EasyFX - International Money Transfer Application - Link: https://easyfx.netlify.app
 
 A simplified frontend application for international money transfers, built as an assignment to demonstrate React fundamentals, state management, and handling of asynchronous flows.
 
