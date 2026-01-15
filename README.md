@@ -265,4 +265,4 @@ All APIs are in `src/api.ts` and can be easily replaced with real API calls.
 
 ## License
 
-This project was created as an assignment submission.
+NA.
